@@ -1,6 +1,6 @@
 # EDA w/SQL: JOB MARKET ANALYSIS   
 
-![Project 1 Overview ](../iprject1_mages\EDA.png)  
+![Project 1 Overview ](../project1Images\EDA.png)  
 A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights.  
 ## Executive Summary 
 (For Hiring Managers)
@@ -25,7 +25,7 @@ Job market analysts need to answer questions like:
 
 This project analyzes a data warehouse built using a star schema design. The warehouse structure consists of:  
 
-![DataWarehouse](../iprject1_mages\c0181f2e-b94c-4158-aca4-9b4846e938fd.png)
+![DataWarehouse](../project1Images\c0181f2e-b94c-4158-aca4-9b4846e938fd.png)
 
 - Fact Table: job_postings_fact - Central table containing job posting details (job titles, locations, salaries, dates, etc.)
 - Dimension Tables:
