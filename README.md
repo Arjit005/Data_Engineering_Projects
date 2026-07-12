@@ -6,7 +6,7 @@
 
 [![EDA Project Overview](project1Images/EDA.png)](1_EDA/README.md)
 
-### Exploratory Data Analysis (EDA)
+### [Exploratory Data Analysis (EDA)] (1_EDA)
 
 SQL-driven analysis of the data engineer job market using advanced querying techniques.
 
